@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ElectronGirl/ComfyUI-Anima-Ref-Adapter/main/docs/showcase/banner.jpg" width="100%" alt="Anima Reference Adapter v2">
+<img src="https://raw.githubusercontent.com/ArcAnima/ComfyUI-Anima-Ref-Adapter/main/docs/showcase/banner.jpg" width="100%" alt="Anima Reference Adapter v2">
 
 # Anima Reference Adapter for Forge Neo
 
 **레퍼런스 이미지에서 캐릭터와 그림체를, 프롬프트에서 자세·장소·구도를.**
 
 [![Weights](https://img.shields.io/badge/%F0%9F%A4%97%20weights-anima--ref--adapter-ffcc4d)](https://huggingface.co/ElectronGirl/anima-ref-adapter)
-[![ComfyUI](https://img.shields.io/badge/%F0%9F%A7%A9%20ComfyUI-nodes-1f6feb)](https://github.com/ElectronGirl/ComfyUI-Anima-Ref-Adapter)
+[![ComfyUI](https://img.shields.io/badge/%F0%9F%A7%A9%20ComfyUI-nodes-1f6feb)](https://github.com/ArcAnima/ComfyUI-Anima-Ref-Adapter)
 [![Training code](https://img.shields.io/badge/%F0%9F%94%AC%20training-code-8a63d2)](https://github.com/ElectronGirl/anima-ref-adapter-research)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-support%20training-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/electrongirl)
 
@@ -28,7 +28,7 @@
 <img src="docs/examples.jpg" width="100%" alt="Forge Neo results">
 
 예시 이미지, 측정 결과, 작동 원리는
-[ComfyUI 버전 README](https://github.com/ElectronGirl/ComfyUI-Anima-Ref-Adapter/blob/main/README.ko.md)에 있습니다. 이 확장은
+[ComfyUI 버전 README](https://github.com/ArcAnima/ComfyUI-Anima-Ref-Adapter/blob/main/README.ko.md)에 있습니다. 이 확장은
 같은 어댑터를 같은 가이던스 방식으로 실행합니다.
 
 > 자금 부족으로 어댑터 개발은 중단되었습니다. 추가 학습을 후원하려면 **[Ko-fi](https://ko-fi.com/electrongirl)**를 이용해 주세요.

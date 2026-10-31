@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ElectronGirl/ComfyUI-Anima-Ref-Adapter/main/docs/showcase/banner.jpg" width="100%" alt="Anima Reference Adapter v2">
+<img src="https://raw.githubusercontent.com/ArcAnima/ComfyUI-Anima-Ref-Adapter/main/docs/showcase/banner.jpg" width="100%" alt="Anima Reference Adapter v2">
 
 # Anima Reference Adapter for Forge Neo
 
 **参照画像からキャラクターと画風を、プロンプトからポーズ・場所・構図を。**
 
 [![Weights](https://img.shields.io/badge/%F0%9F%A4%97%20weights-anima--ref--adapter-ffcc4d)](https://huggingface.co/ElectronGirl/anima-ref-adapter)
-[![ComfyUI](https://img.shields.io/badge/%F0%9F%A7%A9%20ComfyUI-nodes-1f6feb)](https://github.com/ElectronGirl/ComfyUI-Anima-Ref-Adapter)
+[![ComfyUI](https://img.shields.io/badge/%F0%9F%A7%A9%20ComfyUI-nodes-1f6feb)](https://github.com/ArcAnima/ComfyUI-Anima-Ref-Adapter)
 [![Training code](https://img.shields.io/badge/%F0%9F%94%AC%20training-code-8a63d2)](https://github.com/ElectronGirl/anima-ref-adapter-research)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-support%20training-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/electrongirl)
 
@@ -28,7 +28,7 @@
 <img src="docs/examples.jpg" width="100%" alt="Forge Neo results">
 
 作例、測定結果、仕組みは
-[ComfyUI 版の README](https://github.com/ElectronGirl/ComfyUI-Anima-Ref-Adapter/blob/main/README.ja.md) にあります。この拡張機能は
+[ComfyUI 版の README](https://github.com/ArcAnima/ComfyUI-Anima-Ref-Adapter/blob/main/README.ja.md) にあります。この拡張機能は
 同じアダプターを同じガイダンス方式で実行します。
 
 > 資金不足のため、アダプターの開発は休止しています。追加学習の支援は **[Ko-fi](https://ko-fi.com/electrongirl)** からお願いします。
